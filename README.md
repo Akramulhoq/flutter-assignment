@@ -9,7 +9,7 @@ flutter counter assignment
 - Ran `flutter doctor` command in the terminal to verify the setup, and everything is working fine.
 
 ### Summary of `flutter doctor` output:
-
+```
 C:\Users\t bazar>flutter doctor
 Doctor summary (to see all details, run flutter doctor -v):
 [!] Flutter (Channel stable, 3.38.7, on Microsoft Windows [Version 10.0.19045.6466], locale en-US)
@@ -23,7 +23,7 @@ Doctor summary (to see all details, run flutter doctor -v):
 [√] Network resources
 
 ! Doctor found issues in 1 category.
-
+```
 
 ## Task 2: "Run First App"
 - Created a new Flutter project using Android Studio.
