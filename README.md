@@ -26,7 +26,9 @@ Doctor summary (to see all details, run flutter doctor -v):
 ```
 
 ## Task 2: "Run First App"
-- Created a new Flutter project using Android Studio.
-- Ran the default Flutter counter app on an emulator or physical device.
-- Verified that pressing the "+" button increases the counter.
+
+- Created a new Flutter project successfully using Android Studio.
+- Ran the default Flutter counter app on an emulator and a physical device.
+- Verified that the "+" button increments the counter correctly.
+- The app runs smoothly without any errors.
 
